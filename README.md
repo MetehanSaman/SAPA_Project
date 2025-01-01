@@ -95,15 +95,12 @@ git clone https://github.com/MetehanSaman/SAPA_Project.git
 Required MATLAB Toolboxes:
 - Signal Processing Toolbox
 
-
 ## 📄 License
 
 See the [LICENSE](LICENSE) file for details.
 
-## 👏 Acknowledgements
+## Picture of the Project
+![Picture of the Project](Project_Image1.jpg)
 
-Special thanks to all contributors and supporters who have helped make this project possible. Your feedback and contributions are greatly appreciated!
 
----
 
-📫 For issues, feature requests, or questions, please open an issue in the repository.
